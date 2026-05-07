@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Welcom to my Repo 👋
+I am Toprak Mayda
+You can reach me via toprakmayda@gmail.com
 <!--
 **ToprakIP/ToprakIP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
